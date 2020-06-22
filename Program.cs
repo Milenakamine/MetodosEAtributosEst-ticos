@@ -13,8 +13,8 @@ namespace MetodosEAtributosEst_ticos
             System.Console.WriteLine(Conversor.RealParaDolar(200));
            
             Conversor.CotacaoEuro= 5.90f;
-            System.Console.WriteLine(Conversor.EuroParaReal(252));
-            System.Console.WriteLine(Conversor.RealParaEuro(252));
+            System.Console.WriteLine(Conversor.EuroParaReal(245));
+            System.Console.WriteLine(Conversor.RealParaEuro(245));
 
          Console.ResetColor();
         }

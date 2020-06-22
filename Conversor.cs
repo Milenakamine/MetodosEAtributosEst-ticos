@@ -16,10 +16,10 @@ public static float DolarParaReal(float valor){
 public static float CotacaoEuro= 5.90f ;
 
 public static float RealParaEuro(float valor){
-    return valor*CotacaoDolar;
+    return valor*CotacaoEuro;
 }
 public static float EuroParaReal(float valor){
-    return valor/CotacaoDolar;
+    return valor/CotacaoEuro;
 }
 
 
