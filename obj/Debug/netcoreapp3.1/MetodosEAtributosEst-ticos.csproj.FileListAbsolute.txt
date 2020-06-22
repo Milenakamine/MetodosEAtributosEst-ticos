@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\bin\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula21\MetodosEAtributosEst-ticos\obj\Debug\netcoreapp3.1\MetodosEAtributosEst-ticos.genruntimeconfig.cache
